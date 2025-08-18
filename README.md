@@ -31,7 +31,17 @@ Chongyi Chen, Dong Xing, Longzhi Tan, Heng Li, Guangyu Zhou, Lei Huang, and X. S
 
 Anna K. Casasent et al. Multiclonal Invasion in Breast Tumors Identified by Topographic Single Cell Sequencing. _Cell_ (2018). https://doi.org/10.1016/j.cell.2017.12.007
 
+### Acoustic Cell Tagmentation (ACT) method; _Nature_, 2021:
 Darlan C. Minussi, Michael D. Nicholson, Hanghui Ye, et al. Breast tumours maintain a reservoir of subclonal diversity during expansion. _Nature_ (2021). https://doi.org/10.1038/s41586-021-03357-x
+
+And accompanying computational methods manuscript (pre-print), copyKit:
+
+Darlan Conterno Minussi, et al. Resolving clonal substructure from single cell genomic data using CopyKit. bioRxiv (2022). https://doi.org/10.1101/2022.03.09.483497
+
+GitHub Repo for copyKit: https://github.com/navinlabcode/copykit
+
+### Cancer Grand Challenges IMAXT Paper; _Nature_, 2022:
+Tyler Funnell, Ciara H. O’Flanagan, Marc J. Williams, et al. Single-cell genomic variation induced by mutational processes in cancer. _Nature_ (2022). https://doi.org/10.1038/s41586-022-05249-0
 
 Kaile Wang, Tapsi Kumar, et al. Archival single-cell genomics reveals persistent subclones during DCIS progression. _Cell_ (2023). https://doi.org/10.1016/j.cell.2023.07.024
 
