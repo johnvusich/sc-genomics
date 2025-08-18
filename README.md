@@ -48,14 +48,21 @@ Anna S. Nam, Ronan Chaligne & Dan A. Landau. Integrating genetic and non-genetic
 
 ## Other modalities (scATAC-seq, scHi-C, scCUT&Tag, etc.) for cancer genomics and tumor evolution
 
-### Single-cell ATAC-seq for cancer genomics and tumor evolution
+### Single-cell CUT&Tag for cancer genomics and tumor evolution
 Derek H. Janssens, et al. Automated CUT&Tag profiling of chromatin heterogeneity in mixed-lineage leukemia. _Nature Genetics_ (2021). https://doi.org/10.1038/s41588-021-00941-9
 
 Steven J. Wu, Scott N. Furlan, et al. Single-cell CUT&Tag analysis of chromatin modifications in differentiation and tumor progression. _Nature Biotechnology_ (2021). https://doi.org/10.1038/s41587-021-00865-z
 
+### Single-cell ATAC-seq for cancer genomics and tumor evolution
 Kaile Wang, Zhenna Xiao, Yun Yan, et al. Simple oligonucleotide-based multiplexing of single-cell chromatin accessibility. _Molecular Cell_ (2021). https://doi.org/10.1016/j.molcel.2021.09.026
 
+### Single-cell Hi-C / contact maps for cancer genomics and tumor evolution
 Xiaotao Wang, Yu Luan, & Feng Yue. EagleC: A deep-learning framework for detecting a full range of structural variations from bulk and single-cell contact maps. _Science Advances_ (2022). https://doi.org/10.1126/sciadv.abn9215
 
 Lei Chang, Yang Xie, et al. Droplet Hi-C enables scalable, single-cell profiling of chromatin architecture in heterogeneous tissues. _Nature Biotechnology_ (2024). https://doi.org/10.1038/s41587-024-02447-1
+
+### Single-cell and spatial RNA-seq for inferring copy number alterations and tumor evolution
+Ruli Gao, et al. Delineating copy number and clonal substructure in human tumors from single-cell transcriptomes. _Nature Biotechnology_ (2021). https://doi.org/10.1038/s41587-020-00795-2
+
+Diane Zhang, et al. SlideCNA: spatial copy number alteration detection from Slide-seq-like spatial transcriptomics data. _Genome Biology_ (2025). https://doi.org/10.1186/s13059-025-03573-y
 
