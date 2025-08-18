@@ -5,17 +5,31 @@ The specific focus is on single-cell cancer genomics.
 
 ## Early Work
 
+### Whole-genome molecular haplotyping of single cells
+H Christina Fan, Jianbin Wang, Anastasia Potanina, & Stephen R Quake. _Nature Biotechnology_ (2011). https://doi.org/10.1038/nbt.1739
+
+This was the first demonstration of single-cell haplotyping on cell-lines and cells from human blood, using a genome-wide SNP array. This method set the stage for single-cell genomics and microfluidic-based single cell sequencing.
+
 ### Tumour evolution inferred by single-cell sequencing
 Nicholas Navin, et al. Tumour evolution inferred by single-cell sequencing. _Nature_ (2011). https://doi.org/10.1038/nature09807
 
-This was the first demonstration of single-cell DNA sequencing across the whole genome, and was used to reconstruct and model the evolutionary history of the tumor. The authors were able to identify distinct subpopulations that likely gave rise to clonal expansions with divergent structural variations containing potent oncogenes. 
+This was the first demonstration of single-cell DNA sequencing across the whole genome from a human tumor, and was used to reconstruct and model the evolutionary history of the tumor. The authors were able to identify distinct subpopulations that likely gave rise to clonal expansions with divergent structural variations containing potent oncogenes. 
 
 ### Genome-wide copy number analysis of single cells (_Nature Protocols_)
 Timour Baslan, et al. Genome-wide copy number analysis of single cells. _Nature Protocols_ (2012). https://doi.org/10.1038/nprot.2012.039
 
 This is an accompanying detailed protocol based on the previous paper. 
 
+### MALBAC method for single-cell DNA sequencing
+Chenghang Zong, Sijia Lu, Alec R. Chapman, and X. Sunney Xie. Genome-Wide Detection of Single-Nucleotide and Copy-Number Variations of a Single Human Cell. _Science_ (2012). https://doi.org/10.1126/science.1229164
+
+### Copy number analysis in circulating tumor cells
+Xiaohui Ni, Minglei Zhuo, Zhe Su, Jianchun Duan, Yan Gao, Zhijie Wang, Chenghang Zong, et al. Reproducible copy number variation patterns among single circulating tumor cells of lung cancer patients. _PNAS_ (2013). https://doi.org/10.1073/pnas.1320659110
+
 ## Later Papers
+Chongyi Chen, Dong Xing, Longzhi Tan, Heng Li, Guangyu Zhou, Lei Huang, and X. Sunney Xie. Single-cell whole-genome analyses by Linear Amplification via Transposon Insertion (LIANTI). _Science_ (2017). https://doi.org/10.1126/science.aak9787
+
+Anna K. Casasent et al. Multiclonal Invasion in Breast Tumors Identified by Topographic Single Cell Sequencing. _Cell_ (2018). https://doi.org/10.1016/j.cell.2017.12.007
 
 Darlan C. Minussi, Michael D. Nicholson, Hanghui Ye, et al. Breast tumours maintain a reservoir of subclonal diversity during expansion. _Nature_ (2021). https://doi.org/10.1038/s41586-021-03357-x
 
@@ -24,10 +38,15 @@ Kaile Wang, Tapsi Kumar, et al. Archival single-cell genomics reveals persistent
 Yiyun Lin, Junke Wang, et al. Normal breast tissues harbour rare populations of aneuploid epithelial cells. _Nature_ (2024). https://doi.org/10.1038/s41586-024-08129-x
 
 ## Good Review Articles on this topic:
+Nicholas Navin. Cancer genomics: one cell at a time. _Genome Biology_ (2014). https://doi.org/10.1186/s13059-014-0452-9
+
+Nicholas Navin. The first five years of single-cell cancer genomics and beyond. _Genome Research_ (2015). [DOI: 10.1101/gr.191098.115](https://genome.cshlp.org/content/25/10/1499.full)
+
+Alexander Davis, Ruli Gao, & Nicholas Navin. Tumor evolution: Linear, branching, neutral or punctuated?. Biochimica et Biophysica Acta (BBA) - Reviews on Cancer (2017). https://doi.org/10.1016/j.bbcan.2017.01.003
 
 Anna S. Nam, Ronan Chaligne & Dan A. Landau. Integrating genetic and non-genetic determinants of cancer evolution by single-cell multi-omics. _Nature Reviews Genetics_ (2021). https://doi.org/10.1038/s41576-020-0265-5
 
-## Other modalities (scATAC-seq, scHi-C, etc.) for cancer genomics
+## Other modalities (scATAC-seq, scHi-C, scCUT&Tag, etc.) for cancer genomics and tumor evolution
 
 ### Single-cell ATAC-seq for cancer genomics and tumor evolution
 Derek H. Janssens, et al. Automated CUT&Tag profiling of chromatin heterogeneity in mixed-lineage leukemia. _Nature Genetics_ (2021). https://doi.org/10.1038/s41588-021-00941-9
