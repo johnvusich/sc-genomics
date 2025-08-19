@@ -76,3 +76,6 @@ Ruli Gao, et al. Delineating copy number and clonal substructure in human tumors
 
 Diane Zhang, et al. SlideCNA: spatial copy number alteration detection from Slide-seq-like spatial transcriptomics data. _Genome Biology_ (2025). https://doi.org/10.1186/s13059-025-03573-y
 
+### Single-cell methylation profiling for inferring copy number alterations and tumor evolution
+Ruth V. Nichols, Lauren E. Rylaarsdam, et al. Atlas-scale single-cell DNA methylation profiling with sciMETv3. _Cell Genomics_ (2025). https://doi.org/10.1016/j.xgen.2024.100726
+
