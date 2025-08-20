@@ -66,6 +66,9 @@ Steven J. Wu, Scott N. Furlan, et al. Single-cell CUT&Tag analysis of chromatin 
 ### Single-cell ATAC-seq for cancer genomics and tumor evolution
 Kaile Wang, Zhenna Xiao, Yun Yan, et al. Simple oligonucleotide-based multiplexing of single-cell chromatin accessibility. _Molecular Cell_ (2021). https://doi.org/10.1016/j.molcel.2021.09.026
 
+### Single-cell DNase-seq
+Wenfei Jin, Qingsong Tang, et al. Genome-wide detection of DNase I hypersensitive sites in single cells and FFPE tissue samples. _Nature_ (2015). https://doi.org/10.1038/nature15740
+
 ### Single-cell Hi-C / contact maps for cancer genomics and tumor evolution
 Xiaotao Wang, Yu Luan, & Feng Yue. EagleC: A deep-learning framework for detecting a full range of structural variations from bulk and single-cell contact maps. _Science Advances_ (2022). https://doi.org/10.1126/sciadv.abn9215
 
