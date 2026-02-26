@@ -82,3 +82,18 @@ Diane Zhang, et al. SlideCNA: spatial copy number alteration detection from Slid
 ### Single-cell methylation profiling for inferring copy number alterations and tumor evolution
 Ruth V. Nichols, Lauren E. Rylaarsdam, et al. Atlas-scale single-cell DNA methylation profiling with sciMETv3. _Cell Genomics_ (2025). https://doi.org/10.1016/j.xgen.2024.100726
 
+## Software for analysing single-cell modalities (scRNA-seq, scATAC-seq, scCUT&Tag, Paired-Tag, scMulti-ome, ect.)
+
+Tim Stuart, Andrew Butler, et al. Comprehensive Integration of Single-Cell Data. _Cell_ (2019). https://doi.org/10.1016/j.cell.2019.05.031
+Tim Stuart, et al. Single-cell chromatin state analysis with Signac. _Nature Methods_ (2021). https://doi.org/10.1038/s41592-021-01282-5
+Note: these are the publication for the Seruat v3 and Signac packages, respectively.
+[Signac Package](https://stuartlab.org/signac/)
+[Integrating scRNA-seq and scATAC-seq data with Signac](https://stuartlab.org/signac/articles/pbmc_multiomic)
+[Integrating scRNA-seq and scATAC-seq data with Seurat](https://satijalab.org/seurat/articles/seurat5_atacseq_integration_vignette)
+
+Jeffrey M. Granja, et al. ArchR is a scalable software package for integrative single-cell chromatin accessibility analysis. _Nature Genetics_ (2021). https://doi.org/10.1038/s41588-021-00790-6
+
+Zaim, Pebworth, et al. MOCHA’s advanced statistical modeling of scATAC-seq data enables functional genomic inference in large human cohorts. _Nature Communications_ (2024). https://doi.org/10.1038/s41467-024-50612-6
+Note: this is the publication for the MOCHA package (Model-based single cell Open CHromatin Analysis)
+[MOCHA Package](https://aifimmunology.github.io/MOCHA/)
+
