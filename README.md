@@ -63,6 +63,9 @@ Derek H. Janssens, et al. Automated CUT&Tag profiling of chromatin heterogeneity
 
 Steven J. Wu, Scott N. Furlan, et al. Single-cell CUT&Tag analysis of chromatin modifications in differentiation and tumor progression. _Nature Biotechnology_ (2021). https://doi.org/10.1038/s41587-021-00865-z
 
+### Single-cell ChIP-seq to show that H3K27me3 regulates cell fate during chemo treatment in TNBC
+Justine Marsolier, Pacôme Prompsy, et al. H3K27me3 conditions chemotolerance in triple-negative breast cancer. _Nature Genetics_ (2022). https://doi.org/10.1038/s41588-022-01047-6
+
 ### Single-cell ATAC-seq for cancer genomics and tumor evolution
 Kaile Wang, Zhenna Xiao, Yun Yan, et al. Simple oligonucleotide-based multiplexing of single-cell chromatin accessibility. _Molecular Cell_ (2021). https://doi.org/10.1016/j.molcel.2021.09.026
 
