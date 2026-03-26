@@ -58,10 +58,28 @@ Anna S. Nam, Ronan Chaligne & Dan A. Landau. Integrating genetic and non-genetic
 
 ## Other modalities (scATAC-seq, scHi-C, scCUT&Tag, etc.) for cancer genomics and tumor evolution
 
-### Single-cell CUT&Tag for cancer genomics and tumor evolution
+### Single-cell CUT&Tag
+Steven J. Wu, Scott N. Furlan, et al. Single-cell CUT&Tag analysis of chromatin modifications in differentiation and tumor progression. _Nature Biotechnology_ (2021). https://doi.org/10.1038/s41587-021-00865-z
+
+Marek Bartosovic, et al. Single-cell CUT&Tag profiles histone modifications and transcription factors in complex tissues. _Nature Biotechnology_ (2021). https://doi.org/10.1038/s41587-021-00869-9
+
+Sneha Gopalan, et al. Simultaneous profiling of multiple chromatin proteins in the same cells. _Molecular Cell_ (2021). https://doi.org/10.1016/j.molcel.2021.09.019
+
+Marek Bartosovic & Gonçalo Castelo-Branco. Multimodal chromatin profiling using nanobody-based single-cell CUT&Tag. _Nature Biotechnology_ (2022). https://doi.org/10.1038/s41587-022-01535-4
+
+José Ramón Bárcenas-Walls, et al. Nano-CUT&Tag for multimodal chromatin profiling at single-cell resolution. _Nature Protocols_ (2023). https://doi.org/10.1038/s41596-023-00932-6
+
+Qingqing Li, Yuqing Guo, Zixin Wu, et al. scNanoSeq-CUT&Tag: a single-cell long-read CUT&Tag sequencing method for efficient chromatin modification profiling within individual cells. _Nature Methods_ (2024). https://doi.org/10.1038/s41592-024-02453-w
+
+### sciCUT&Tag
 Derek H. Janssens, et al. Automated CUT&Tag profiling of chromatin heterogeneity in mixed-lineage leukemia. _Nature Genetics_ (2021). https://doi.org/10.1038/s41588-021-00941-9
 
-Steven J. Wu, Scott N. Furlan, et al. Single-cell CUT&Tag analysis of chromatin modifications in differentiation and tumor progression. _Nature Biotechnology_ (2021). https://doi.org/10.1038/s41587-021-00865-z
+Derek H. Janssens, Jacob E. Greene, et al. Scalable single-cell profiling of chromatin modifications with sciCUT&Tag. _Nature Protocols_ (2024). https://doi.org/10.1038/s41596-023-00905-9
+
+### sciCUT&Tag2in1
+Derek H. Janssens, Dominik J. Otto, et al. CUT&Tag2for1: a modified method for simultaneous profiling of the accessible and silenced regulome in single cells. _Genome Biology_ (2022). https://doi.org/10.1186/s13059-022-02642-w
+
+Derek H. Janssens, et al. Sequential RNA polymerase II activation drives human hematopoiesis. _Cell Reports_ (2026). https://doi.org/10.1016/j.celrep.2025.116802
 
 ### Single-cell ChIP-seq for characterizing epigenomic heterogeneity in cancer
 Kevin Grosselin, et al. High-throughput single-cell ChIP-seq identifies heterogeneity of chromatin states in breast cancer. _Nature Genetics_ (2019). https://doi.org/10.1038/s41588-019-0424-9
