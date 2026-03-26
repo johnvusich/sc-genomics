@@ -63,6 +63,10 @@ Derek H. Janssens, et al. Automated CUT&Tag profiling of chromatin heterogeneity
 
 Steven J. Wu, Scott N. Furlan, et al. Single-cell CUT&Tag analysis of chromatin modifications in differentiation and tumor progression. _Nature Biotechnology_ (2021). https://doi.org/10.1038/s41587-021-00865-z
 
+### Single-cell ChIP-seq for characterizing epigenomic heterogeneity in cancer
+Kevin Grosselin, et al. High-throughput single-cell ChIP-seq identifies heterogeneity of chromatin states in breast cancer. _Nature Genetics_ (2019). https://doi.org/10.1038/s41588-019-0424-9
+Marthe Laisné, Mathieu Lupien, & Céline Vallot. Epigenomic heterogeneity as a source of tumour evolution. _Nature Reviews Cancer_ (2024). https://doi.org/10.1038/s41568-024-00757-9
+
 ### Single-cell ChIP-seq to show that H3K27me3 regulates cell fate during chemo treatment in TNBC
 Justine Marsolier, Pacôme Prompsy, et al. H3K27me3 conditions chemotolerance in triple-negative breast cancer. _Nature Genetics_ (2022). https://doi.org/10.1038/s41588-022-01047-6
 
